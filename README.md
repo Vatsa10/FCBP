@@ -13,6 +13,7 @@ Budget Calculation: Helps you allocate:
 Personalized Savings Tips: Quick tips to optimize your spending and save more! 💡
 
 Steps to run the project:
+
 1). Clone Repisitory
 
 2). Create Virtual Env
