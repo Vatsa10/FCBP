@@ -13,8 +13,13 @@ Budget Calculation: Helps you allocate:
 Personalized Savings Tips: Quick tips to optimize your spending and save more! 💡
 
 Steps to run the project:
+
 1). Clone Repisitory
+
 2). Create Virtual Env
+
 3). Install Required Libraries from requirements.txt
+
 4). Add Your Gemini API Key And Make a .env File
+
 5). Run Main Py
