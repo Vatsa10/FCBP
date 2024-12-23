@@ -8,7 +8,13 @@ Smart Financial Data Collection: Monthly income, fixed expenses, discretionary e
 Budget Calculation: Helps you allocate:
 50% for Needs (e.g., rent, bills)
 30% for Wants (e.g., dining, hobbies)
-20% for Savings 💰
+20% for Savings 
 
 Personalized Savings Tips: Quick tips to optimize your spending and save more! 💡
 
+Steps to run the project:
+1). Clone Repisitory
+2). Create Virtual Env
+3). Install Required Libraries from requirements.txt
+4). Add Your Gemini API Key And Make a .env File
+5). Run Main Py
